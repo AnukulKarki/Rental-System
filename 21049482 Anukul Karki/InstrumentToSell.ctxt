@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=InstrumentToSell
+comment0.text=\r\n\ The\ InstrumentToSell\ class\ extends\ Intrument\ class\ so\ it\ is\ child\ class\ and\ Instrument\ is\ parent\ class\r\nThe\ instrument\ contans\ 4\ differnet\ instance\ variable\r\n\ A\ constructor\ is\ made\ with\ two\ differnet\ parameters\r\n\ Setters\ and\ getters\ method\ were\ made\ to\ every\ variable\r\n\ Method\ for\ selling\ the\ insrument\ is\ also\ made\r\n\ Method\ for\ displaying\ the\ was\ also\ developed\ and\ print\ accordingly\ if\ the\ item\ is\ sold\r\n\r\n\ @author\ (Anukul\ Karki)\r\n\ @version\ (21049482,\ javac\ 17.0.1)\r\n
+comment1.params=instrumentName\ Price
+comment1.target=InstrumentToSell(java.lang.String,\ float)
+comment10.params=customerName\ customerMobile\ customerPanNo\ sellDate\ discountPercent
+comment10.target=void\ sellInstrument(java.lang.String,\ java.lang.String,\ long,\ java.lang.String,\ float)
+comment11.params=
+comment11.target=void\ Display()
+comment2.params=Price
+comment2.target=void\ setPrice(float)
+comment3.params=
+comment3.target=float\ getPrice()
+comment4.params=sellDate
+comment4.target=void\ setSellDate(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getSellDate()
+comment6.params=discountPercent
+comment6.target=void\ setDiscountPercent(float)
+comment7.params=
+comment7.target=float\ getDiscountPercent()
+comment8.params=isSold
+comment8.target=void\ setIsSold(boolean)
+comment9.params=
+comment9.target=boolean\ getIsSold()
+numComments=12
